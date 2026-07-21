@@ -6,7 +6,7 @@ The unified ecosystem for every layer of software development. Simple, high-perf
 - [UsoroJS]() — Decoupled, high-performance full-stack web runtimes
 
    *Frontend*
-  - [Frontend Logic]() — 
+  - [Frontend Logic]() — Efficient DOM manipulation APIs (`dom`), fine-grained reactive UI state management (`rdom`), Web Workers API (`wdom`), single-page application (SPA) & multiple-page application (MPA) routing & rendering system.
   - [UsoroCSS]() — Lightweight, component & atomic styling system 
 
    *Backend*
